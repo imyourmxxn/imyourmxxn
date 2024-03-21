@@ -2,14 +2,11 @@
   <head>
     </head>
   <body>
-    <header>
-      
+    <header> 
     </header>
     <main>
-    
     </main>
-    <footer>
-    
+    <footer>   
     </footer>
   </body>
 </html>
